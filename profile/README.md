@@ -10,6 +10,7 @@
 | 5 | 2020104 | Σπύρος Πολίτης | [p20poli](https://github.com/p20poli) |
 | 6 | 2020106 | Ανδρέας Κλιμεντίδης | [Aandrew-Kl](https://github.com/Aandrew-Kl) |
 | 7 | 2020062 | Θεόδωρος Σταμπουλής | [p20stab](https://github.com/p20stab) |
+| 8 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
 
 ## Organization Members note the following
   * New coming members must update the table ubove with their info.
