@@ -8,9 +8,8 @@
 | 3 | 2019214 | Χαράλαμπος Μακρυλάκης | [XarMeIson](https://github.com/Xar-Me-Ison) |
 | 4 | 2020150 | Αθανάσιος Καλαμάτας | [thanosks](https://github.com/thanosks) |
 | 5 | 2020104 | Σπύρος Πολίτης | [p20poli](https://github.com/p20poli) |
-| 6 | 2020106 | Ανδρέας Κλιμεντίδης | [Aandrew-Kl](https://github.com/Aandrew-Kl) |
-| 7 | 2020062 | Θεόδωρος Σταμπουλής | [p20stab](https://github.com/p20stab) |
-| 8 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
+| 6 | 2020062 | Θεόδωρος Σταμπουλής | [p20stab](https://github.com/p20stab) |
+| 7 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
 
 ## Organization Members note the following
   * Any Members of the organization that have been inactive for more than 1-2 weeks are getting the boot.
