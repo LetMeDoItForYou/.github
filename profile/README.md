@@ -12,8 +12,8 @@
 | 7 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
 
 ## Organization Members note the following
-  * Any Members of the organization that have been inactive for more than 1-2 weeks are getting the boot.
-  * New coming members must update the table ubove with their info.
-  * For any questions regarding the assignments, don't hesitate to open a new discussion!
-
-
+  * Ανενεργά μέλη της οργάνωσης θα πεταχθούν από αυτήν.
+  * Νέα μέλη πρέπει να αναβαθμίσουν το παραπάνω matrix.
+  * Μην διστάσετε να κάνετε οποιαδήποτε ερώτηση εντός και εκτός του οργανισμού.
+  * Το feedback είναι ευπρόσδεκτο.
+  
