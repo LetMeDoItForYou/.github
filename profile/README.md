@@ -8,8 +8,7 @@
 | 3 | 2019214 | Χαράλαμπος Μακρυλάκης | [XarMeIson](https://github.com/Xar-Me-Ison) |
 | 4 | 2020150 | Αθανάσιος Καλαμάτας | [thanosks](https://github.com/thanosks) |
 | 5 | 2020104 | Σπύρος Πολίτης | [p20poli](https://github.com/p20poli) |
-| 6 | 2020062 | Θεόδωρος Σταμπουλής | [p20stab](https://github.com/p20stab) |
-| 7 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
+| 6 | 2020159 | Αλέξανδρος Ιωαννίδης | [AlexIoanP2020159](https://github.com/AlexIoanP2020159) |
 
 ## Organization Members note the following
   * Ανενεργά μέλη της οργάνωσης θα αφαιρεθούν από αυτήν.
